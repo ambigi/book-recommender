@@ -1,5 +1,0 @@
-.idea
-.ipynb_checkpoints
-book_list.pkl
-pt.pkl
-similarity.pkl
